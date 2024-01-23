@@ -24,7 +24,6 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^10.5"
-        // Other development dependencies
     },
     "suggest": {
         "cache/redis-adapter": "Required to use Redis-based cache through php-redis extension (recommended - faster and more stable then predis)",
